@@ -17,11 +17,12 @@ a{
     background-color: #0d0518;
     align-items: center;
     /* justify-content: space-around; */
+    width: auto;
 }
 
 .herologo{
     /* gap: 0px, 40px; */
-    padding-left: 400px;
+    /* padding-left: 400px; */
 }
 
 
